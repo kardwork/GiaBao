@@ -158,7 +158,6 @@ button:before {
 	right: 10px;
 	bottom: 10px;
 	height: 90px;
-	background: rgba(0, 0, 0, 0.4);
 	display: flex;
 	justify-content: center;
 	text-align: center;
